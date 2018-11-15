@@ -81,3 +81,6 @@ deploy:
   type: git   
   repo: https://github.com/insisthzr/insisthzr.github.io  #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: [master] #published
+
+disqus_shortname: happyhzrblog
+
